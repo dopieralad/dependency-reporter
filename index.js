@@ -1,5 +1,3 @@
-const message = "I'm working!";
+const reportDependencies = require("./lib/reportDependencies.js");
 
-console.log(message);
-
-module.exports = message;
+module.exports = reportDependencies;

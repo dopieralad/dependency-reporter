@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-const dependencyReporter = require("dependency-reporter");
+const reportDependencies = require("../lib/reportDependencies.js");
 
-console.log(dependencyReporter);
+reportDependencies();
