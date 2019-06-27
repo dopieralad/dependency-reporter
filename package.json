@@ -6,5 +6,6 @@
   "author": "Daniel Dopierała",
   "license": "MIT",
   "private": false,
-  "main": "index.js"
+  "main": "index.js",
+  "bin": "./bin/index.js"
 }
