@@ -6,6 +6,21 @@
   "author": "Daniel Dopierała",
   "license": "MIT",
   "private": false,
+  "keywords": [
+    "dependency",
+    "foss",
+    "generator",
+    "license",
+    "list",
+    "node",
+    "npm",
+    "open source",
+    "package",
+    "report",
+    "tracking",
+    "usage",
+    "version"
+  ],
   "main": "index.js",
   "bin": "./bin/index.js"
 }
