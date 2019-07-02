@@ -1,7 +1,7 @@
 {
   "name": "dependency-reporter",
   "description": "A simple dependency reporter for NPM-based projects.",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "repository": "https://github.com/dopieralad/dependency-reporter.git",
   "author": "Daniel Dopierała",
   "license": "MIT",
